@@ -1,2 +1,2 @@
 # NPS
-NPS data exploration from a lareg company 
+NPS data exploration from a large company 
